@@ -1,8 +1,8 @@
 class Pizauth < Formula
   desc "OAuth2 token requester daemon"
   homepage "https://github.com/ltratt/pizauth"
-  url "https://github.com/ltratt/pizauth/archive/refs/tags/pizauth-1.1.0.tar.gz"
-  sha256 "1e7219795937160f74fabfe98e948818a1fa28cfc9dc9b7bcfb6853bce5fb72d"
+  url "https://github.com/ltratt/pizauth/archive/refs/tags/pizauth-1.1.1.tar.gz"
+  sha256 "0640ed4e3199f451de956c56f1bff420275daa3d4a4a25be4dab76d3a39f7659"
   license "MIT"
 
   livecheck do
